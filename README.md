@@ -79,4 +79,5 @@
 
 ##📁 هيكل المشروع
 خالد جمال العنزي
+https://security-iot-mqcjwzcp.manus.space/dashboard رابط موقع
 
